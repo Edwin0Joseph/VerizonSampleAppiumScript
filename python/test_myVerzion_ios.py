@@ -122,7 +122,7 @@ class AndroidTest(unittest.TestCase):
         self.app_signin()
         self.app_signout()        
 
-        self.status = "Pass"
+        self.status = "Passed"
 
 
     # Check App Launch    
